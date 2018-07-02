@@ -17,10 +17,20 @@ function increaseRankBy(n) {
 }
 
 function deepestChild() {
-  
+  var grand = document.getElementById('grand-node').querySelectorAll('div')
 }
 
-      
+      <div id="grand-node">
+        <div>
+          <div>
+            <div>
+              <div>
+                boo!
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
       
       
       
