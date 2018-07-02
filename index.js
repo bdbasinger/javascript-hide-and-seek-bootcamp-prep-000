@@ -22,6 +22,3 @@ function deepestChild() {
   return lastChild
 }
 
-
-      
-      
