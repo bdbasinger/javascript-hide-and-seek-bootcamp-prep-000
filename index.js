@@ -22,17 +22,6 @@ function deepestChild() {
   return lastChild
 }
 
-      <div id="grand-node">
-        <div>
-          <div>
-            <div>
-              <div>
-                boo!
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      
+
       
       
