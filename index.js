@@ -9,7 +9,7 @@ function nestedTarget() {
 }
 
 function increaseRankBy(n) {
-  
+  const lis = document.getElementById('')
 }
 
 <main id="app">
