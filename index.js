@@ -19,6 +19,7 @@ function increaseRankBy(n) {
 
       
       
+      increaseRankBy(2)
       
       
       
